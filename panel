@@ -1,0 +1,42 @@
+{
+    "layout": {
+        "hspace": "5mm",
+        "vspace": "3mm",
+        "rows": "3",
+        "cols": "2"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "24mm",
+        "hwidth": "10mm"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "layer": "49"
+    },
+    "framing": {
+        "type": "railstb",
+        "fillet": "2mm"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "2mm",
+        "voffset": "2mm"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "hoffset": "10mm",
+        "voffset": "4.5mm",
+        "opening": "2mm"
+    },
+    "copperfill": {
+        "type": "solid"
+    },
+    "page": {
+        "anchor": "c",
+        "posy": "100mm"
+    },
+    "post": {
+        "millradius": "1mm"
+    }
+}

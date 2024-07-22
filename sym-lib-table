@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "q-lab")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/symbols.kicad_sym")(options "")(descr ""))
+)

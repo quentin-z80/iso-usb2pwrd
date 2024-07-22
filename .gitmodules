@@ -1,0 +1,3 @@
+[submodule "kicad-libraries"]
+	path = kicad-libraries
+	url = git@gitlab.com:quentin-z80/kicad-libraries.git
