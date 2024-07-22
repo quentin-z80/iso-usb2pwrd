@@ -1,7 +1,7 @@
 {
     "layout": {
-        "hspace": "5mm",
-        "vspace": "3mm",
+        "hspace": "4mm",
+        "vspace": "2mm",
         "rows": "3",
         "cols": "2"
     },
